@@ -1,0 +1,14 @@
+.douyin-kb/
+knowledge/
+.cookies.json
+douyin-downloader/
+.venv/
+__pycache__/
+.ruff_cache/
+.pytest_cache/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store

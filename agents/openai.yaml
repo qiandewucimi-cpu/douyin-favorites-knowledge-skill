@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音收藏知识提取"
+  short_description: "把抖音收藏拆解为可检索的本地 Markdown 知识卡片"
+  default_prompt: "Use $ingest-douyin-favorites to process my unprocessed Douyin favorites into local Markdown knowledge notes."
